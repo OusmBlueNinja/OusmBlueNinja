@@ -4,6 +4,8 @@
 
 ![Hydra-Helper](https://visitor-badge.laobi.icu/badge?page_id=OusmBlueNinja.OusmBlueNinja)
 
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=OusmBlueNinja&count_private=true&show_icons=true&hide=contribs)
+
 
 
 ### Languages i Know:
