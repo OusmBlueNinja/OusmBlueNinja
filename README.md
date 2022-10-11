@@ -2,9 +2,7 @@
 
 ## My Profile Stats
 
-![Hydra-Helper](https://visitor-badge.laobi.icu/badge?page_id=OusmBlueNinja.Hydra-Helper)
-![Nytron](https://visitor-badge.laobi.icu/badge?page_id=OusmBlueNinja.Nytron)
-![Profile](https://visitor-badge.laobi.icu/badge?page_id=OusmBlueNinja.OusmBlueninja)
+![Hydra-Helper](https://visitor-badge.laobi.icu/badge?page_id=OusmBlueNinja.OusmBlueNinja)
 
 
 
