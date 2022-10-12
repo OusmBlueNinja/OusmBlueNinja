@@ -8,7 +8,7 @@
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OusmBlueNinja&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OusmBlueNinjab&layout=compact)
 
 
 
