@@ -3,8 +3,11 @@
 ## My Profile Stats
 
 ![Hydra-Helper](https://visitor-badge.laobi.icu/badge?page_id=OusmBlueNinja.OusmBlueNinja)
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmadushadhanushka&longCache=true"/>
+
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=OusmBlueNinja&count_private=true&show_icons=true&hide=contribs)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ousmblueninja&theme=light&hide_border=true&area=true)
 
 
 ## My TODO List
@@ -36,6 +39,10 @@ def get_random_string(length):
     return result_str
     
 ```
+
+## Joke
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
 
 ### Languages i Know:
 
