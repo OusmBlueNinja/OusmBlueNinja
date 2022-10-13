@@ -68,6 +68,32 @@ class b:
 </p>
 </details>
 
+<details><summary>Python Functions</summary>
+<p>
+```C
+    
+#include <stdio.h>
+#include <time.h>
+
+void delay(int number_of_seconds)
+{
+    // Converting time into milli_seconds
+    int milli_seconds = 1000 * number_of_seconds;
+ 
+    // Storing start time
+    clock_t start_time = clock();
+ 
+    // looping till required time is not achieved
+    while (clock() < start_time + milli_seconds);
+}
+    
+    
+```
+    
+</p>
+</details>
+
+
 ## Joke
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
