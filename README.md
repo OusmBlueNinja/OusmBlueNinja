@@ -73,7 +73,7 @@ class b:
 <p>
 
 
-```python
+```C
 
 #include <stdio.h>
 #include <time.h>
