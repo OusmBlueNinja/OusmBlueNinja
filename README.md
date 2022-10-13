@@ -6,6 +6,12 @@
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=OusmBlueNinja&count_private=true&show_icons=true&hide=contribs)
 
+## What im Working on
+[![Secret](https://github-readme-stats.vercel.app/api/pin/?username=ousmblueninja&repo=new-project&theme=light)](https://github.com/ousmblueninja/new-project)
+
+## Cool Project
+[!Hydra-Helper](https://github-readme-stats.vercel.app/api/pin/?username=ousmblueninja&repo=hydra-helper&theme=light)](https://github.com/ousmblueninja/hydra-helper)
+
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OusmBlueNinja&layout=compact)
