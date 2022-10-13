@@ -5,6 +5,16 @@
 ![Hydra-Helper](https://visitor-badge.laobi.icu/badge?page_id=OusmBlueNinja.OusmBlueNinja)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=OusmBlueNinja&count_private=true&show_icons=true&hide=contribs)
+
+
+## My TODO List
+
+- [x] add cool projects section to README.md
+- [x]  https://github.com/OusmBlueNinja/Survive-The-Desert/issues/1
+- [] https://github.com/OusmBlueNinja/Hydra-Helper/issues/2
+
+
+
 ## Projects that i made
 ### What im Working on
 [![Secret](https://github-readme-stats.vercel.app/api/pin/?username=ousmblueninja&repo=new-project&theme=light)](https://github.com/ousmblueninja/new-project)
