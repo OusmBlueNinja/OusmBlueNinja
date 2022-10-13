@@ -47,7 +47,7 @@ def get_random_string(length):
 
 ```python
 
-class bcolors:
+class b:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
     OKCYAN = '\033[96m' 
@@ -57,6 +57,8 @@ class bcolors:
     ENDC = '\033[0m'
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
+    
+    print(f'{b.FAIL}[ERROR] {b.WARNING}Unable to run command{b.ENDC}')
     
 ```
 
