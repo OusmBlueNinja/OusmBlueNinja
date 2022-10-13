@@ -10,7 +10,7 @@
 ## My TODO List
 
 - [x] add cool projects section to README.md
-- [x]  https://github.com/OusmBlueNinja/Survive-The-Desert/issues/1
+- [x] https://github.com/OusmBlueNinja/Survive-The-Desert/issues/1
 - [] https://github.com/OusmBlueNinja/Hydra-Helper/issues/2
 
 
