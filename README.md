@@ -25,6 +25,11 @@
 ### Cool Project
 [![Hydra-Helper](https://github-readme-stats.vercel.app/api/pin/?username=ousmblueninja&repo=hydra-helper&theme=light)](https://github.com/ousmblueninja/hydra-helper)
 
+[![New Game](https://github-readme-stats.vercel.app/api/pin/?username=ousmblueninja&repo=Game-in-java-WIP&theme=light)](https://github.com/ousmblueninja/hydra-helper)
+
+
+
+
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OusmBlueNinja&layout=compact)
