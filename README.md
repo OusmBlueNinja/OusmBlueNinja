@@ -68,11 +68,13 @@ class b:
 </p>
 </details>
 
-<details>
-    <summary>Functions in C</summary>
-    <p>
-```
-        
+
+<details><summary>Python Functions</summary>
+<p>
+
+
+```python
+
 #include <stdio.h>
 #include <time.h>
 
@@ -83,13 +85,11 @@ void delay(int number_of_seconds)
     clock_t start_time = clock();
     while (clock() < start_time + milli_seconds);
 }
-                               
 ```
-    
 </p>
 </details>
-
-
+    
+    
 ## Joke
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
