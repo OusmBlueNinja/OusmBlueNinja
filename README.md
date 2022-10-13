@@ -70,7 +70,7 @@ class b:
 
 <details><summary>Functions in C</summary>
 <p>
-```c++
+```python
     
 #include <stdio.h>
 #include <time.h>
