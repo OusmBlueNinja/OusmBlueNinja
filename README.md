@@ -68,9 +68,9 @@ class b:
 </p>
 </details>
 
-<details><summary>Python Functions</summary>
+<details><summary>Functions in C</summary>
 <p>
-```C
+```c
     
 #include <stdio.h>
 #include <time.h>
