@@ -10,7 +10,7 @@
 [![Secret](https://github-readme-stats.vercel.app/api/pin/?username=ousmblueninja&repo=new-project&theme=light)](https://github.com/ousmblueninja/new-project)
 
 ## Cool Project
-[!Hydra-Helper](https://github-readme-stats.vercel.app/api/pin/?username=ousmblueninja&repo=hydra-helper&theme=light)](https://github.com/ousmblueninja/hydra-helper)
+[![Hydra-Helper](https://github-readme-stats.vercel.app/api/pin/?username=ousmblueninja&repo=hydra-helper&theme=light)](https://github.com/ousmblueninja/hydra-helper)
 
 ## Top Languages
 
