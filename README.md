@@ -69,7 +69,7 @@ class b:
 </details>
 
 
-<details><summary>Python Functions</summary>
+<details><summary>C Functions</summary>
 <p>
 
 
