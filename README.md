@@ -26,7 +26,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OusmBlueNinja&layout=compact)
 
+## Usefull Code
 
+```python
+def get_random_string(length):
+    # choose from all lowercase letter
+    letters = string.ascii_lowercase
+    result_str = ''.join(random.choice(letters) for i in range(length))
+    return result_str
+    
+```
 
 ### Languages i Know:
 
