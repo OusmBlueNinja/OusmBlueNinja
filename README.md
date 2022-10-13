@@ -25,8 +25,6 @@
 ### Cool Project
 [![Hydra-Helper](https://github-readme-stats.vercel.app/api/pin/?username=ousmblueninja&repo=hydra-helper&theme=light)](https://github.com/ousmblueninja/hydra-helper)
 
-[![New Game](https://github-readme-stats.vercel.app/api/pin/?username=ousmblueninja&repo=game-in-java-wip&theme=light)](https://github.com/ousmblueninja/Game-in-java-WIP)
-
 
 
 
@@ -35,6 +33,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OusmBlueNinja&layout=compact)
 
 ## Usefull Code
+
+<details><summary>Python Functions</summary>
+<p>
+
+
 
 ```python
 def get_random_string(length):
@@ -61,6 +64,9 @@ class b:
     print(f'{b.FAIL}[ERROR] {b.WARNING}Unable to run command{b.ENDC}')
     
 ```
+    
+</p>
+</details>
 
 ## Joke
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
