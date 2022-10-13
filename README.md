@@ -5,11 +5,11 @@
 ![Hydra-Helper](https://visitor-badge.laobi.icu/badge?page_id=OusmBlueNinja.OusmBlueNinja)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=OusmBlueNinja&count_private=true&show_icons=true&hide=contribs)
-
-## What im Working on
+## Projects that i made
+### What im Working on
 [![Secret](https://github-readme-stats.vercel.app/api/pin/?username=ousmblueninja&repo=new-project&theme=light)](https://github.com/ousmblueninja/new-project)
 
-## Cool Project
+### Cool Project
 [![Hydra-Helper](https://github-readme-stats.vercel.app/api/pin/?username=ousmblueninja&repo=hydra-helper&theme=light)](https://github.com/ousmblueninja/hydra-helper)
 
 ## Top Languages
