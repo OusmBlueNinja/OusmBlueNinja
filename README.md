@@ -20,7 +20,11 @@
 
 ## Projects that i made
 ### What im Working on
-[![Secret](https://github-readme-stats.vercel.app/api/pin/?username=ousmblueninja&repo=new-project&theme=light)](https://github.com/ousmblueninja/new-project)
+[![Secret](https://github-readme-stats.vercel.app/api/pin/?username=ousmblueninja&repo=Template-for-C-and-GCC&theme=light)](https://github.com/ousmblueninja/Template-for-C-and-GCC)
+
+### Templates I Made
+
+[![Secret](https://github-readme-stats.vercel.app/api/pin/?username=ousmblueninja&repo=Template-for-C-and-GCC&theme=light)](https://github.com/ousmblueninja/Template-for-C-and-GCC)
 
 ### Cool Project
 [![Hydra-Helper](https://github-readme-stats.vercel.app/api/pin/?username=ousmblueninja&repo=hydra-helper&theme=light)](https://github.com/ousmblueninja/hydra-helper)
