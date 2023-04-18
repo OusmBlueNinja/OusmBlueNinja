@@ -7,7 +7,6 @@
 
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=OusmBlueNinja&count_private=true&show_icons=true&hide=contribs)
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ousmblueninja&theme=dark&hide_border=true&area=true)
 
 
 ## My TODO List
